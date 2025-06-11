@@ -42,6 +42,8 @@ El proyecto sigue una estructura estándar de Android, con los siguientes compon
     * Organiza los botones en un `LinearLayout` (o similar) verticalmente.
 * **`app/src/main/res/raw/`**:
     * Carpeta donde se almacena el archivo de audio local (ej. `audio.mp3`) que la aplicación reproduce.
+ 
+![image](https://github.com/user-attachments/assets/2c47825b-98a7-4147-9adf-58beb5bfe76e)
 
 ## Aprendizajes Clave
 
